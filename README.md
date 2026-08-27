@@ -80,7 +80,7 @@ Test Accuracy: 91.30%
 
 The trained model can be accessed here:
 
-[Open Traffic Light Sign Detection](https://traffic-light-sign-detection-f7hzv9hpcrm9bkmy4ebt2a.streamlit.app/)
+[Live Demo:](https://traffic-light-sign-detection-f7hzv9hpcrm9bkmy4ebt2a.streamlit.app/)
 
 ## Project Structure
 
