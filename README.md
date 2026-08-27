@@ -1,4 +1,4 @@
-# Traffic Light Sign Recognition
+[# Traffic Light Sign Recognition
 
 A deep learning based traffic light sign recognition system using
 EfficientNetB0 transfer learning with TensorFlow/Keras.
@@ -80,7 +80,7 @@ Test Accuracy: 91.30%
 
 The trained model can be accessed here:
 
-[View Trained Model](YOUR_HUGGING_FACE_LINK)
+[Open Traffic Light Sign Detection](https://traffic-light-sign-detection-f7hzv9hpcrm9bkmy4ebt2a.streamlit.app/)
 
 ## Project Structure
 
@@ -90,3 +90,4 @@ traffic-light-sign-recognition/
 ├── requirements.txt
 ├── .gitignore
 └── traffic_light_sign_recognition.ipynb
+](https://traffic-light-sign-detection-f7hzv9hpcrm9bkmy4ebt2a.streamlit.app/)
