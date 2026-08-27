@@ -74,7 +74,7 @@ Add your final test accuracy here.
 
 Example:
 
-Test Accuracy: XX%
+Test Accuracy: 91.30%
 
 ## Trained Model
 
