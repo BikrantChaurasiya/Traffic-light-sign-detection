@@ -1,0 +1,14 @@
+__pycache__/
+.ipynb_checkpoints/
+
+*.keras
+*.h5
+*.pkl
+*.ckpt
+
+dataset/
+datasets/
+cropped-lisa-traffic-light-dataset/
+
+venv/
+.venv/
